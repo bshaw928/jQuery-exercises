@@ -1,0 +1,9 @@
+body {
+  background-color: lightsalmon;
+}
+
+h1,
+form,
+.listItem {
+  text-align: center;
+}
